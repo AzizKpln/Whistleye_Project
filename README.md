@@ -1,6 +1,6 @@
 # Whistleye_Project
 This project is a continuation of the Moriarty project. But this osint website, has more feautres than Moriarty has.
-
+![](whistleye1.png)
 https://www.whistleye.com
 
 If you're encountring with errors, let me know that from issues section of this repository.
@@ -16,4 +16,4 @@ If you're encountring with errors, let me know that from issues section of this 
 * Advanced Nickname Investigation
 * Advanced People Investigation
 
-![](whistleye1.png)
+
