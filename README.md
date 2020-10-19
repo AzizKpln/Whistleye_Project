@@ -14,5 +14,5 @@ If you're encountring with errors, let me know that from issues section of this 
 # Features In Development
 * Advanced Email Investigation
 * Advanced Nickname Investigation
-
+* Advanced People Investigation
 
