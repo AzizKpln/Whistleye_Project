@@ -1,5 +1,9 @@
 # Whistleye_Project
 This project is a continuation of the Moriarty project. But this osint website, has more feautres than Moriarty has.
+# IMPORTANT
+The server has been shut down because of purchase issues. I need to find another way to buy a server for free.
+
+
 #  WEBSITE
 * https://www.whistleye.com
 
